@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-link-context": "^1.0.20",
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.25.3",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
